@@ -1,0 +1,49 @@
+id,iata,parent_family,level,name
+737,737,BOEING,family,Boeing 737
+76F,76F,767,sub_family,Boeing 767 Freighter
+330,330,AIRBUS,family,Airbus A330
+707,707,BOEING,family,Boeing 707/720
+74M,74M,747,sub_family,Boeing 747 Combi
+D1F,D1F,,sub_family,Douglas DC-10 Freighter
+DC9,DC9,,family,Douglas DC-9
+74F,74F,747,sub_family,Boeing 747 Freighter
+777,777,BOEING,family,Boeing 777
+JST,JST,,family,British Aerospace Jetstream 31 / 32 / 41
+73F,73F,737,sub_family,Boeing 737 Freighter
+727,727,BOEING,family,Boeing 727
+D8F,D8F,DC8,sub_family,Douglas DC-8 Freighter
+767,767,BOEING,family,Boeing 767
+340,340,AIRBUS,family,Airbus A340
+14F,14F,146,sub_family,BAe 146 Freighter (-100/200/300QT & QC)
+747,747,BOEING,family,Boeing 747
+32S,32S,AIRBUS,family,Airbus A318/319/320/321
+757,757,BOEING,family,Boeing 757
+DC8,DC8,,family,Douglas DC-8
+DH8,DH8,,family,De Havilland Canada DHC-8 Dash 8
+146,146,BAE,family,BAe 146
+D9F,D9F,DC9,sub_family,Douglas DC-9 Freighter
+7MX,7MX,737,sub_family,Boeing 737 MAX
+737NG,,737,sub_family,Boeing 737 NG (-600/700/800/900)
+737CL,,737,sub_family,Boeing 737 Classic (-300/400/500)
+737OG,,737,sub_family,Boeing 737 Original (-100/200)
+AN,,,manufacturer,Antonov
+MA,,,manufacturer,Xian Yunshuji MA
+AR,,,manufacturer,Avro
+CS,,,manufacturer,CASA
+DHC3,,,family,De Havilland Canada DHC-3
+EURCOP,,,manufacturer,Eurocopter
+TRN,,LAND,sub_family,Train
+BUS,,LAND,sub_family,Bus
+LAND,,,family,Surface Equipment
+787,787,BOEING,family,Boeing 787
+380,,AIRBUS,family,Airbus A380
+350,,AIRBUS,family,Airbus A350
+310,,AIRBUS,family,Airbus A310
+220,,AIRBUS,family,Airbus A220
+EMBR,,,manufacturer,Embraer
+BBRDIER,,,manufacturer,Bombardier
+AIRBUS,,,manufacturer,Airbus
+BOEING,,,manufacturer,Boeing
+BAE,,,manufacturer,BAE Systems
+CESSNA,,,manufacturer,Cessna
+GULF,,,manufacturer,Gulfstream
