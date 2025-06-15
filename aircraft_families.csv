@@ -38,8 +38,8 @@ LAND,,,family,Surface Equipment
 787,787,BOEING,family,Boeing 787
 380,,AIRBUS,family,Airbus A380
 350,,AIRBUS,family,Airbus A350
-310,,AIRBUS,family,Airbus A310
-220,,AIRBUS,family,Airbus A220
+310,310,AIRBUS,family,Airbus A310
+220,220,AIRBUS,family,Airbus A220
 EMBR,,,manufacturer,Embraer
 BBRDIER,,,manufacturer,Bombardier
 AIRBUS,,,manufacturer,Airbus
