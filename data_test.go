@@ -30,7 +30,12 @@ func TestIdsAreUnique(t *testing.T) {
 	testIdsAreUnique(t, readerAndIdColumn{reader: strings.NewReader(aliases), idColumn: "alias"})
 	testIdsAreUnique(t, readerAndIdColumn{reader: strings.NewReader(families), idColumn: "id"})
 	testIdsAreUnique(t, readerAndIdColumn{reader: strings.NewReader(types), idColumn: "id"})
-	testIdsAreUnique(t, readerAndIdColumn{reader: strings.NewReader(types), idColumn: "iata"}, readerAndIdColumn{reader: strings.NewReader(families), idColumn: "iata", allowNull: true})
+	testIdsAreUnique(
+		t,
+		readerAndIdColumn{reader: strings.NewReader(types), idColumn: "iata"},
+		readerAndIdColumn{reader: strings.NewReader(aliases), idColumn: "alias"},
+		readerAndIdColumn{reader: strings.NewReader(families), idColumn: "iata", allowNull: true},
+	)
 }
 
 func TestAliasesXor(t *testing.T) {
