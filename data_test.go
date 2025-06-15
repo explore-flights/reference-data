@@ -1,24 +1,10 @@
-package reference_data
+package main
 
 import (
-	_ "embed"
-	"encoding/csv"
-	"errors"
-	"fmt"
 	"io"
-	"iter"
 	"strings"
 	"testing"
 )
-
-//go:embed aircraft_aliases.csv
-var aliases string
-
-//go:embed aircraft_families.csv
-var families string
-
-//go:embed aircraft_types.csv
-var types string
 
 type readerAndIdColumn struct {
 	reader    io.Reader
@@ -147,42 +133,5 @@ func testIdsAreUnique(t *testing.T, readersAndIdColumns ...readerAndIdColumn) {
 	if err != nil {
 		t.Fatal(err)
 		return
-	}
-}
-
-func readCsv(reader io.Reader, outErr *error) iter.Seq2[int, map[string]string] {
-	return func(yield func(int, map[string]string) bool) {
-		r := csv.NewReader(reader)
-		headers, err := r.Read()
-		if err != nil {
-			*outErr = fmt.Errorf("failed to read header: %w", err)
-			return
-		}
-
-		line := 1
-		for {
-			record, err := r.Read()
-			if err != nil {
-				if errors.Is(err, io.EOF) {
-					break
-				}
-
-				*outErr = err
-				break
-			}
-
-			row := make(map[string]string)
-			for i, colName := range headers {
-				if i < len(record) {
-					row[colName] = record[i]
-				}
-			}
-
-			if !yield(line, row) {
-				break
-			}
-
-			line++
-		}
 	}
 }
