@@ -104,7 +104,7 @@ func TestReferences(t *testing.T) {
 	}
 
 	if len(expectedFamilyIds) > 0 {
-		t.Fatalf("missing expected family ids: %v", expectedAircraftIds)
+		t.Fatalf("missing expected family ids: %v", expectedFamilyIds)
 		return
 	}
 }
