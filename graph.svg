@@ -717,7 +717,7 @@
 <text text-anchor="middle" x="920.07" y="-1842.3" font-family="Times,serif" font-size="14.00">Aircraft</text>
 <text text-anchor="middle" x="920.07" y="-1825.5" font-family="Times,serif" font-size="14.00">BAE Systems &#160;ATP Freighter</text>
 <text text-anchor="middle" x="920.07" y="-1808.7" font-family="Times,serif" font-size="14.00">IATA: APF</text>
-<text text-anchor="middle" x="920.07" y="-1791.9" font-family="Times,serif" font-size="14.00">ICAO: ZZZZ</text>
+<text text-anchor="middle" x="920.07" y="-1791.9" font-family="Times,serif" font-size="14.00">ICAO: </text>
 </g>
 <!-- 50 -->
 <g id="node80" class="node">
@@ -771,7 +771,7 @@
 <text text-anchor="middle" x="305.79" y="-29966.3" font-family="Times,serif" font-size="14.00">Aircraft</text>
 <text text-anchor="middle" x="305.79" y="-29949.5" font-family="Times,serif" font-size="14.00">Sukhoi Superjet 100&#45;75</text>
 <text text-anchor="middle" x="305.79" y="-29932.7" font-family="Times,serif" font-size="14.00">IATA: SU7</text>
-<text text-anchor="middle" x="305.79" y="-29915.9" font-family="Times,serif" font-size="14.00">ICAO: ZZZZ</text>
+<text text-anchor="middle" x="305.79" y="-29915.9" font-family="Times,serif" font-size="14.00">ICAO: </text>
 </g>
 <!-- 56 -->
 <g id="node86" class="node">
@@ -1176,7 +1176,7 @@
 <text text-anchor="middle" x="1426.6" y="-22883.3" font-family="Times,serif" font-size="14.00">Aircraft</text>
 <text text-anchor="middle" x="1426.6" y="-22866.5" font-family="Times,serif" font-size="14.00">Airbus A350&#45;800</text>
 <text text-anchor="middle" x="1426.6" y="-22849.7" font-family="Times,serif" font-size="14.00">IATA: 358</text>
-<text text-anchor="middle" x="1426.6" y="-22832.9" font-family="Times,serif" font-size="14.00">ICAO: ZZZZ</text>
+<text text-anchor="middle" x="1426.6" y="-22832.9" font-family="Times,serif" font-size="14.00">ICAO: </text>
 </g>
 <!-- 83 -->
 <g id="node131" class="node">
@@ -1185,7 +1185,7 @@
 <text text-anchor="middle" x="920.07" y="-11819.3" font-family="Times,serif" font-size="14.00">Aircraft</text>
 <text text-anchor="middle" x="920.07" y="-11802.5" font-family="Times,serif" font-size="14.00">Antonov An&#45;158</text>
 <text text-anchor="middle" x="920.07" y="-11785.7" font-family="Times,serif" font-size="14.00">IATA: A58</text>
-<text text-anchor="middle" x="920.07" y="-11768.9" font-family="Times,serif" font-size="14.00">ICAO: ZZZZ</text>
+<text text-anchor="middle" x="920.07" y="-11768.9" font-family="Times,serif" font-size="14.00">ICAO: </text>
 </g>
 <!-- 84 -->
 <g id="node132" class="node">
@@ -1716,7 +1716,7 @@
 <text text-anchor="middle" x="305.79" y="-35026.3" font-family="Times,serif" font-size="14.00">Aircraft</text>
 <text text-anchor="middle" x="305.79" y="-35009.5" font-family="Times,serif" font-size="14.00">Business Turbo&#45;Prop Aircraft</text>
 <text text-anchor="middle" x="305.79" y="-34992.7" font-family="Times,serif" font-size="14.00">IATA: BTA</text>
-<text text-anchor="middle" x="305.79" y="-34975.9" font-family="Times,serif" font-size="14.00">ICAO: ZZZZ</text>
+<text text-anchor="middle" x="305.79" y="-34975.9" font-family="Times,serif" font-size="14.00">ICAO: </text>
 </g>
 <!-- bf -->
 <g id="node191" class="node">
@@ -2103,7 +2103,7 @@
 <text text-anchor="middle" x="920.07" y="-20663.3" font-family="Times,serif" font-size="14.00">Aircraft</text>
 <text text-anchor="middle" x="920.07" y="-20646.5" font-family="Times,serif" font-size="14.00">Canadair (Bombardier) Regional Jet Freighter</text>
 <text text-anchor="middle" x="920.07" y="-20629.7" font-family="Times,serif" font-size="14.00">IATA: CRF</text>
-<text text-anchor="middle" x="920.07" y="-20612.9" font-family="Times,serif" font-size="14.00">ICAO: ZZZZ</text>
+<text text-anchor="middle" x="920.07" y="-20612.9" font-family="Times,serif" font-size="14.00">ICAO: </text>
 </g>
 <!-- ea -->
 <g id="node234" class="node">
@@ -2904,7 +2904,7 @@
 <text text-anchor="middle" x="305.79" y="-41226.3" font-family="Times,serif" font-size="14.00">Aircraft</text>
 <text text-anchor="middle" x="305.79" y="-41209.5" font-family="Times,serif" font-size="14.00">Light Jet Aircraft</text>
 <text text-anchor="middle" x="305.79" y="-41192.7" font-family="Times,serif" font-size="14.00">IATA: LJA</text>
-<text text-anchor="middle" x="305.79" y="-41175.9" font-family="Times,serif" font-size="14.00">ICAO: ZZZZ</text>
+<text text-anchor="middle" x="305.79" y="-41175.9" font-family="Times,serif" font-size="14.00">ICAO: </text>
 </g>
 <!-- 143 -->
 <g id="node323" class="node">

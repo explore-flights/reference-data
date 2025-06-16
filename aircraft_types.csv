@@ -77,13 +77,13 @@ IL7,,IL7,IL76,H,4,Jet,Ilyushin Il-76
 LOH,,LOH,C130,M,4,Turboprop/Turboshaft,Lockheed Martin L-182 / L-282 / L-382 (L-100) Hercules
 PN6,,PN6,P68,L,2,Piston,Vulcanair (Partenavia) P.68
 SFB,,SFB,SF34,M,2,Turboprop/Turboshaft,Saab 340B
-APF,BAE,APF,ZZZZ,,,,BAE Systems  ATP Freighter
+APF,BAE,APF,,,,,BAE Systems  ATP Freighter
 SWF,,SWF,,,,,Fairchild (Swearingen) SA226 Freighter
 AN6,AN,AN6,,M,,,Antonov AN-26 / AN-30 /AN-32
 7MB,BOEING,7MB,,,,,Boeing 7MB
 CNT,CESSNA,CNT,,L,,,Cessna (Light aircraft-twin turboprop engines)
 PAT,,PAT,,L,,,Piper (Light aircraft-twin turboprop engines)
-SU7,,SU7,ZZZZ,M,,,Sukhoi Superjet 100-75
+SU7,,SU7,,M,,,Sukhoi Superjet 100-75
 H21,,H21,H25C,M,2,Jet,Hawker 1000
 H28,,H28,H25B,M,2,Jet,Hawker 850XP/900
 223,220,223,BCS3,M,2,Jet,Airbus A220-300
@@ -128,8 +128,8 @@ D94,DC9,D94,DC94,M,2,Jet,Boeing (Douglas) DC-9-40 Passenger
 PL6,,PL6,PC6T,L,1,Turboprop/Turboshaft,Pilatus PC-6 Turbo Porter
 L1F,,L1F,L101,H,3,Jet,Lockheed Martin L-1011 TriStar Freighter
 YK2,,YK2,YK42,M,3,Jet,Yakovlev Yak-42 / Yak-142
-358,350,358,ZZZZ,H,2,Jet,Airbus A350-800
-A58,AN,A58,ZZZZ,,,,Antonov An-158
+358,350,358,,H,2,Jet,Airbus A350-800
+A58,AN,A58,,,,,Antonov An-158
 AWZ,,AWZ,,,,,Augusta Westland 200
 AX8,AR,AX8,RX85,M,,,Avro RJX85
 CVR,,CVR,,M,,,Convair CV-240 / 440 / 580 / 600 / 640 pax
@@ -188,7 +188,7 @@ F5F,,F5F,F50,M,2,Turboprop/Turboshaft,Fokker 50 Freighter
 ILW,,ILW,IL86,H,4,Jet,Ilyushin Il-86
 SH6,,SH6,SH36,M,2,Turboprop/Turboshaft,Shorts 360 (SD3-60)
 T2F,,T2F,T204,M,2,Jet,Tupolev Tu-204 Freighter
-BTA,,BTA,ZZZZ,,,,Business Turbo-Prop Aircraft
+BTA,,BTA,,,,,Business Turbo-Prop Aircraft
 CVF,,CVF,,M,,,Convair CV-240 / 440 / 580 / 600 / 640 Freighter
 PAG,,PAG,,L,,,Piper light aircraft
 SU1,,SU1,,M,,,Sukhoi Superjet 100
@@ -231,7 +231,7 @@ ACD,GULF,ACD,,L,,,Gulfstream/Rockwell (Aero) Commander/Turbo Commander
 CNA,CESSNA,CNA,,L,,,Cessna light aircraft
 GRJ,GULF,GRJ,,M,,,Gulfstream Aerospace G-1159 Gulfstream II / III / IV / V
 VCV,,VCV,VISC,M,,,Vickers Viscount
-CRF,BBRDIER,CRF,ZZZZ,M,2,Jet,Canadair (Bombardier) Regional Jet Freighter
+CRF,BBRDIER,CRF,,M,2,Jet,Canadair (Bombardier) Regional Jet Freighter
 31A,32S,31A,A318,M,2,Jet,Airbus A318 (sharklets)
 31N,32S,31N,A19N,M,2,Jet,Airbus A319neo
 388,380,388,A388,J,4,Jet,Airbus A380-800 Passenger
@@ -320,7 +320,7 @@ S20,,S20,SB20,M,2,Turboprop/Turboshaft,Saab 2000
 CJ5,CESSNA,CJ5,,,,,Cessna 560 Citation
 CJ8,CESSNA,CJ8,,,,,Cessna 680 Citation
 CNF,CESSNA,CNF,,,,,Cessna 208B Freighter
-LJA,,LJA,ZZZZ,,,,Light Jet Aircraft
+LJA,,LJA,,,,,Light Jet Aircraft
 AX1,AR,AX1,RX1H,M,,,Avro RJX100
 BEC,,BEC,,L,,,Beechcraft light aircraft
 CRV,,CRV,S210,M,2,Jet,Aerospatiale (Sud Aviation) Se.210 Caravelle
